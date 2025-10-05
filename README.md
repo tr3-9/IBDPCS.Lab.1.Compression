@@ -1,4 +1,4 @@
-RLE (Run Length Encoding) is an algorithm that is used to compress a text file. 
+RLE (Run Length Encoding) is an algorithm that is used to compress text. 
 It is a form of lossless compression. 
 
 Example
